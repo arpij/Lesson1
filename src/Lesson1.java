@@ -15,6 +15,7 @@ public class Lesson1 {
         int a = 45678;
         System.out.println(a);
 
+
         long b = 4465L;
         System.out.println(b);
 
